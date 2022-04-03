@@ -923,7 +923,7 @@ position:relative;
 	<meta name="keywords" content="photography, portfolio, onepage, creative, html">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Favicon -->   
-	<link href="../7ooda2/images/myimages/logo2.png" rel="shortcut icon"/>
+	<link href="../img/samplelogo.png" rel="shortcut icon"/>
 
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
@@ -935,7 +935,7 @@ position:relative;
 
 
 	<!-- Favicon -->   
-	<link href="../../7ooda2/images/myimages/logo2.png" rel="shortcut icon"/>
+	<link href="../img/samplelogo.png" rel="shortcut icon"/>
 
 
 	 <!--Stylesheets -->
@@ -978,7 +978,7 @@ position:relative;
 
 	<!-- Header section start -->
 	<header class="header-section sp-pad">
-	<a href="https://www.yyprojects.online/espacedesign">	 <img class="site-logo" href="contact/" src="../../7ooda2/images/myimages/logo2.png" style="width:10%;height:7%;"></a>
+	<a href="https://www.yyprojects.online/espacedesign">	 <img class="site-logo" href="contact/" src="../img/samplelogo.png" style="width:10%;height:7%;"></a>
 	
 		<div class="nav-switch">
 			<i class="fa fa-bars"></i>
