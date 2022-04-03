@@ -624,6 +624,7 @@ ol {
 	Hero section
 -----------------------*/
 .hero-slider {
+	background-size: cover;
 	position: relative;
 	top:-100px;
 	/*top:60px;*/
